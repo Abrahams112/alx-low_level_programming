@@ -2,7 +2,7 @@
 /**
  * _islower - main Entry
  *
- * 2C; chracter to compare
+ *@c; chracter to compare
  *
  * Return: 1 if true, 0 if false
  *
