@@ -4,7 +4,7 @@
  *
  * @c: chracter to compare
  *
- * Return: 1 iftrue, 0 if false
+ * Return: 1 if true, 0 if false
  *
  */
 int _isalpha(int c)
