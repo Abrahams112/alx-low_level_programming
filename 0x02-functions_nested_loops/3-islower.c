@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _islower - main Entry
+ * _islower - main function
  *
  *@c; chracter to compare
  *
