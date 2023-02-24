@@ -1,5 +1,3 @@
-table File  26 lines (25 sloc)  319 Bytes
-
 #include "main.h"
 /**
  * print_square - prints square stuff
