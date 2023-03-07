@@ -1,6 +1,5 @@
- 
-/** 
-* _strpbrk - finds string 
+/**
+ * _strpbrk - finds string
  * @s: string to find stuff
  * @accept: accepting arrays
  *
