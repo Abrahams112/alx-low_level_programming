@@ -3,6 +3,7 @@
 /**
  * factorial(int n) - print factoril of a given number
  * @n: given number
+ * Return: returns print factoria or -1
  */
 int factorial(int n);
 {
