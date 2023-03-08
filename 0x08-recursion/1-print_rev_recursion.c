@@ -5,7 +5,7 @@
  * @s: string in recure
  * Return: void
  */
-void _print_rev_recursion(char *s);
+void _print_rev_recursion(char *s)
 {
 	if (*s)/*if statement*/
 	{
