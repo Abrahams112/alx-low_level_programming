@@ -2,10 +2,18 @@
 
 /**
  * print a string followed by a new line
- * puts_recursion
+ * puts_recursion - follow by a new line
+ * @s
  */
 
 void _puts_recursion(char *s);
 {
-	_putchat("hello world\n");
+	if (*s)
+	{
+		putchar(*s);
+		_put_recursion(s + 1);
+	}
+	else
+		_putchar("\n");
+
 }
