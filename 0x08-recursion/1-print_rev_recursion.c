@@ -7,9 +7,9 @@
  */
 void _print_rev_recursion(char *s)
 {
-	if (*s)/*if statement*/
+	if (*s) /*if statement*/
 	{
-		_print_rev_recursion(s + 1);/*add s*/
-		_Putchar(*s);/*print s*/
+		_print_rev_recursion(s + 1); /*add s*/
+		_Putchar(*s); /*print s*/
 	}
 }
