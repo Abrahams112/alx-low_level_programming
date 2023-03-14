@@ -13,7 +13,7 @@ char *_strdup(char *str)
 {
 	int i;
 	int c = 0;
-	chat *t;
+	char *t;
 
 	if (str == NULL)
 		return (Null);
