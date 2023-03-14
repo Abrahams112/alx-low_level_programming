@@ -9,7 +9,7 @@
  *
  *
  */
-chat *_strdup(char *str)
+char *_strdup(char *str)
 {
 	int i;
 	int c = 0;
