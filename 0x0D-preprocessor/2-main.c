@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /*
- * main - program that prints ne of a file 
+ * main - program that prints ne of a file
  * Return: always 0
  */
 int main(void)
